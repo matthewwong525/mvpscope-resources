@@ -1,7 +1,7 @@
 ---
 title: How I reached 50k users with Flutter
 description: Hey, I'm Matt, once the CTO of a startup backed by YC. Today, I'm here to unravel the steps I took to reach 50,000 users and how you can replicate this success!
-image: ./assets/50k-flutter-banner.png
+image: /assets/50k-flutter-banner.png
 date: 2024-03-16
 authors:
   - name: Matthew Wong
@@ -9,7 +9,6 @@ authors:
     url: https://twitter.com/IThinkWong
     image_url: https://github.com/matthewwong525.png
 ---
-![50k-flutter-banner](assets/50k-flutter-banner.png)
 
 Hey, I'm Matt, once the CTO of a startup backed by YC. Today, I'm here to unravel the steps I took to reach 50,000 users and how you can replicate this success!
 
@@ -45,6 +44,7 @@ With the landing page set up and the concept validated, I moved on to developing
 
 - **Speed**: Immediate deployment, avoiding the drawn-out approval processes associated with app stores, and the complications of mobile-specific setups.
 - **Accessibility**: The universal ease of accessing a web link, simplifies user feedback and eliminates the need for app store downloads.
+
 ### 6. Iterating Based on Customer Feedback
 
 Following the launch, I reached out to the med students I initially spoke with, seeking their feedback. This step was critical, as their input directly influenced our prioritization of features, including the consideration of mobile support for future development. To date, we haven't added a mobile app, but it remains a goal on our roadmap.

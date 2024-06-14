@@ -1,55 +1,100 @@
 ---
-title: How I reached 50k users with Flutter
-description: Hey, I'm Matt, once the CTO of a startup backed by YC. Today, I'm here to unravel the steps I took to reach 50,000 users and how you can replicate this success!
-image: /assets/50k-flutter-banner.png
-date: 2024-03-16
+title: Resources for Founders at Every Stage
+description: For the past 2 years I've been building startups and for my most recent startup I was able to reach 50k users in under 6 months. These are the resources that helped me get to where I am today.
+image: /assets/startup-resources-banner.png
+date: 2024-03-23
+authors:
+  - name: Matthew Wong
+    title: Founder
+    url: https://www.linkedin.com/in/ithinkwong/
+    image_url: https://github.com/matthewwong525.png
 ---
 
-Hey, I'm Matt, once the CTO of a startup backed by YC. Today, I'm here to unravel the steps I took to reach 50,000 users and how you can replicate this success!
+For the past 2 years I've been building startups and for my most recent startup I was able to reach [50k users in under 6 months](https://devtodollars.com/blog/how-i-reached-50k-users-with-flutter). Throughout my journey, I've been consuming startup content like a fiend. These are the resources that helped me get to where I am today.
 
-<!-- truncate -->
+## 1. Before Startup
 
-### 1. Identifying a problem
+General Startup:
+- [Should You Start A Startup? (Youtube)](https://www.youtube.com/watch?v=BUE-icVYRFU)
+- [The Lean Startup Method (Book)](https://www.goodreads.com/book/show/10127019-the-lean-startup?from_search=true&from_srp=true&qid=vF6n4N2fl2&rank=1)
+- [The E-Myth Revisited (Book)](https://www.goodreads.com/book/show/81948.The_E_myth_Revisited)
+- [Zero to One (Book)](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=SvWQkp2kmf&rank=1)
 
-Everything began with a problem that needed solving. In my scenario, this was the tedious task med school students faced creating flashcards from their study material, dedicating precious hours each week to this alone.
+Talking To Users:
+- [Eric Migicovsky - How to Talk to Users (Youtube)](https://www.youtube.com/watch?v=MT4Ig2uqjTc)
+- [The Mom Test (Book)](https://www.goodreads.com/book/show/52283963-the-mom-test)
 
-### 2. Understanding my customers & competitors
+Startup Ideas:
+- [Where Do Great Startup Ideas Come From? (Youtube)](https://www.youtube.com/watch?v=Jcuqq48CNj8)
+- [Kevin Hale - How to Evaluate Startup Ideas (Youtube)](https://www.youtube.com/watch?v=DOtCl5PU8F0)
+- [Avoid these Tempting Startup Ideas (Youtube)](https://www.youtube.com/watch?v=GMIawSAygO4&list=PLQ-uHSnFig5Nd98Sc9I-kkc0ZWe8peRMC&index=21)
+- [How to get startup ideas (Youtube)](https://youtu.be/Th8JoIan4dg)
+## 2. Initial Enthusiasm
 
-Understanding your customers means REALLY getting to know them. I took a trip to California, visiting Stanford and UCLA, to talk directly with over 50 med school students. Coupled with deep dives into online forums and Reddit, I gathered invaluable insights:
+Building MVP:
+- [Michael Seibel - How to Plan an MVP (Youtube)](https://www.youtube.com/watch?v=1hHMwLxN6EM)
+- [How to Build an MVP (Youtube)](https://youtu.be/QRZ_l7cVzzU)
+- [Running Lean (Book)](https://www.goodreads.com/book/show/13078769-running-lean?from_search=true&from_srp=true&qid=Nazr2nTsrl&rank=1)
 
-- **Who are my users?** They are med students in the U.S., buried under 70+ hours of study each week, all while preparing for the USMLE exam while doing their clinical placements. Improving their study efficiency by even 20% could save them invaluable hours.
-- **What is their current workflow?** Although their study methods vary, they universally rely on question banks as a testing tool. The challenge here lies in ensuring they don’t repeat the same mistakes, which they tackle through various means like manual flashcards, Excel spreadsheets, or using complex software to track their progress.
-- **What does my product offer?** I developed an AI-powered flashcard generator designed to seamlessly integrate into their study routine, allowing for the automatic creation of flashcards from their question bank questions with just a click. This innovation significantly streamlines their study process, eliminating the need for manual flashcard creation.
+Co-founder / Relationships:
+- [How to find the right co-founder (Youtube)](https://youtu.be/prKi3-rUPHc)
+- [Kevin Hale - How to Work Together (Youtube)](https://www.youtube.com/watch?v=30a5yFBd7Fo)
+- [Non-Violent Communication (Book)](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
+- [YC Co-Founder Matching (Platform)](https://www.ycombinator.com/cofounder-matching)
 
-### 3. Validating my idea
+Getting Customers / Launching:
+- [How to Get Your First Customers (Youtube)](https://youtu.be/hyYCn_kAngI)
+- [Kat Manalac - How to Launch (Again and Again) (Youtube)](https://www.youtube.com/watch?v=3xU050kMbHM)
+- [Traction (Book)](https://www.goodreads.com/book/show/22091581-traction?from_search=true&from_srp=true&qid=z9IEMBqrwK&rank=1)
+## 3. Reality Sets In
+- [The Hard Thing About Hard Things (Book)](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things?from_search=true&from_srp=true&qid=kvGh5oeCNF&rank=1)
+- [The Cold Start Problem (Book)](https://www.goodreads.com/book/show/55338968-the-cold-start-problem?from_search=true&from_srp=true&qid=tSoZrG36g7&rank=1)
+- [Founders at Work (Book)](https://www.goodreads.com/book/show/98233.Founders_at_Work?from_search=true&from_srp=true&qid=xrceojJGuy&rank=1)
+- [How to Build the Future (Youtube)](https://www.youtube.com/playlist?list=PLQ-uHSnFig5MoTTcgd8EzenEADqGTQPpW)
+- [Founder Networking Events (Platform)](https://www.meetup.com/find/?suggested=true&source=EVENTS&keywords=founders)
+## 4. Experimenting & Pivoting
 
-Before diving into product development, validating the idea was crucial. I crafted a Reddit post [here](https://www.reddit.com/r/step1/comments/19ayx2p/study_uworld_more_efficiently/) that attracted over 90 upvotes which led to numerous direct messages. This was the first sign of potential success, but the true test is whether or not they would pay for it.
+Time Management / Productivity:
+- [Adora Cheung - How to Prioritize Your Time (Youtube)](https://www.youtube.com/watch?v=XcCmMOWuAF4)
+- [Startup Experts Reveal Their Top Productivity Advice (Youtube)](https://www.youtube.com/watch?v=nF_YWdz6S0Y)
 
-### 4. Building my landing page
+Marketing:
+- [The 1-Page Marketing Plan (Book)](https://www.goodreads.com/book/show/41943000-the-1-page-marketing-plan)
+- [Twitter Growth Playbook (Blog)](https://verbena-possum-b39.notion.site/Twitter-Growth-Playbook-8c57afecb6f741c4a0017f18760638ac)
 
-The decision to opt for a no-code webpage builder over Flutter for the landing page was influenced by three key reasons:
+Sales:
+- [How to Sell by Tyler Bosmeny (Youtube)](https://www.youtube.com/watch?v=xZi4kTJG-LE)
+- [Spin Selling (Book)](https://www.goodreads.com/book/show/833015.SPIN_Selling?from_search=true&from_srp=true&qid=yirUTjzAzl&rank=1)
+- [Gap Selling (Book)](https://www.goodreads.com/book/show/42686460-gap-selling?from_search=true&from_srp=true&qid=SlUKYMnHmh&rank=1)
 
-1. **Flutter's shortcomings for landing pages**, notably [slower load times](https://github.com/flutter/flutter/issues/76009) and [subpar SEO capabilities](https://github.com/flutter/flutter/issues/46789).
-2. **Empowering my non-technical co-founder** to make edits, significantly enhancing our agility in making iterations.
-3. **The fast speed of deployment** offered by no-code solutions.
+Analytics:
+- [Ilya Volodarsky - Analytics for Startups (Youtube)](https://www.youtube.com/watch?v=LLerCc7MOQo)
+- [Kevin Hale - How to Improve Conversion Rates (Youtube)](https://www.youtube.com/watch?v=PGqX9fpweyc)
+- [Lean Analytics (Book)](https://www.goodreads.com/book/show/16033602-lean-analytics?from_search=true&from_srp=true&qid=4DJGGgqgo0&rank=1)
 
-### 5. Web App Development
+Design:
+- [Refactoring UI (Book)](https://www.goodreads.com/book/show/43190966-refactoring-ui?from_search=true&from_srp=true&qid=FYoVzawzHs&rank=1)
+## 5. Starts Working
 
-With the landing page set up and the concept validated, I moved on to developing the web application. Opting to [focus solely on a web app](flutter-vs-react-building-a-startup-on-the-web.md) was driven by two considerations:
+Growth:
+- [Hacking Growth (Book)](https://www.goodreads.com/book/show/31625067-hacking-growth)
+- [Dalton Caldwell - All About Pivoting (Youtube)](https://www.youtube.com/watch?v=8pNxKX1SUGE)
+- [Gustaf Alströmer - Growth for Startups (Youtube)](https://www.youtube.com/watch?v=6lY9CYIY4pQ)
+- [Kevin Hale - Startup Pricing 101 (Youtube)](https://www.youtube.com/watch?v=jwXlo9gy_k4)
 
-- **Speed**: Immediate deployment, avoiding the drawn-out approval processes associated with app stores, and the complications of mobile-specific setups.
-- **Accessibility**: The universal ease of accessing a web link, simplifies user feedback and eliminates the need for app store downloads.
+Raising Capital:
+- [Should Your Startup Bootstrap or Raise Venture Capital? (Youtube)](https://www.youtube.com/watch?v=D81y-kh11oI)
+- [The Hacker's Guide to Investors (Blog)](https://paulgraham.com/guidetoinvestors.html)
+- [Why Founder's Shouldn't Think Like Investors (Youtube)](https://www.youtube.com/watch?v=SMi3JO-hsyY&t=1s)
+## 6. Product Market Fit & Scaling
+- [The Hard Thing About Hard Things (Book)](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things?from_search=true&from_srp=true&qid=37qtpQMDXo&rank=1)
+- [Founders at Work (Book)](https://www.goodreads.com/book/show/98233.Founders_at_Work?from_search=true&from_srp=true&qid=xrceojJGuy&rank=1)
+- [The Cold Start Problem (Book)](https://www.goodreads.com/book/show/55338968-the-cold-start-problem?from_search=true&from_srp=true&qid=tSoZrG36g7&rank=1)
+- [Tim Brady - Building Culture (Youtube)](https://www.youtube.com/watch?v=qnNHW6TYv5I&list=PLQ-uHSnFig5OMuEYI4rnNz08BIHxhxdHG&index=13)
+- [Ali Rowghani - How to Lead (Youtube)](https://www.youtube.com/watch?v=7HDO1p3VdYg&list=PLQ-uHSnFig5OMuEYI4rnNz08BIHxhxdHG&index=22)
 
-### 6. Iterating Based on Customer Feedback
-
-Following the launch, I reached out to the med students I initially spoke with, seeking their feedback. This step was critical, as their input directly influenced our prioritization of features, including the consideration of mobile support for future development. To date, we haven't added a mobile app, but it remains a goal on our roadmap.
-
-### 7. Continuing to Grow
-
-For us, leveraging TikTok through partnerships with micro-influencers was a game-changer, generating viral content that led to spikes in users.
-
-Throughout this journey, our strategy was to experiment, identify what worked, cut what didn’t, and double down on successful tactics.
-
-### What Now?
-
-Thanks for taking the time to read the post. I'm currently on a mission to help developers build their startups and I hope that my experience is helpful for you! If you want to build a startup with Flutter, checkout my [open-source flutter boilerplate](https://github.com/devtodollars/flutter-production-template).
+## Other Resources
+- [Dalton & Michael Show](https://www.youtube.com/playlist?list=PLQ-uHSnFig5Nd98Sc9I-kkc0ZWe8peRMC)
+- YC Startup School: [2017](https://www.youtube.com/playlist?list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17), [2018](https://www.youtube.com/playlist?list=PLQ-uHSnFig5NVnJ_cLWM7dLuMQRDeekoX), [2019](https://www.youtube.com/playlist?list=PLQ-uHSnFig5OMuEYI4rnNz08BIHxhxdHG), [2020](https://www.youtube.com/playlist?list=PLQ-uHSnFig5PjfCy7mE77XMGhgky9HV3o), [2023/24](https://www.youtube.com/playlist?list=PLQ-uHSnFig5M9fW16o2l35jrfdsxGknNB)
+- [Paul Graham Essays](https://paulgraham.com/articles.html)
+- [Startup Playbook by Sam Altman](https://playbook.samaltman.com/)

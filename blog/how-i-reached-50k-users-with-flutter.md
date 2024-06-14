@@ -3,11 +3,6 @@ title: How I reached 50k users with Flutter
 description: Hey, I'm Matt, once the CTO of a startup backed by YC. Today, I'm here to unravel the steps I took to reach 50,000 users and how you can replicate this success!
 image: /assets/50k-flutter-banner.png
 date: 2024-03-16
-authors:
-  - name: Matthew Wong
-    title: Founder
-    url: https://twitter.com/IThinkWong
-    image_url: https://github.com/matthewwong525.png
 ---
 
 Hey, I'm Matt, once the CTO of a startup backed by YC. Today, I'm here to unravel the steps I took to reach 50,000 users and how you can replicate this success!

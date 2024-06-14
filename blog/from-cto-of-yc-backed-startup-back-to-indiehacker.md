@@ -3,11 +3,6 @@ title: From CTO of YC-Backed Startup back to IndieHacker
 description: Worked as a CTO of a YC-backed company but broke up with my co-founder due to a difference in values. Now I'm helping developers build their startups.
 image: /assets/yc-indiehacker-banner.png
 date: 2024-04-02
-authors:
-  - name: Matthew Wong
-    title: Founder
-    url: https://twitter.com/IThinkWong
-    image_url: https://github.com/matthewwong525.png
 ---
 
 TLDR; Worked as a CTO of a YC-backed company but broke up with my co-founder due to a difference in values. Now I'm helping developers build their startups.
